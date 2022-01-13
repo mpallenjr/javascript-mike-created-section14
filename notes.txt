@@ -60,4 +60,8 @@ Section 14 - Basic Operators
 
 Operators can be used to do math or in some cases affect strings.  
 
+typeof operator is another operator that tells the type of 'X' See consolog details in the past exercise.
+
+
+
 

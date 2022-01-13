@@ -106,3 +106,10 @@ console.log(firstName + ' ' + lastName)
 
 
 
+//assingment operators
+
+let x = 10 + 5 
+//in this case the equal is an assignment operator, assigning a variable. the order goes from rightsied to the left side. So 15 is calculated before x is defined
+
+x += 10 // x = x +10 (same output)
+console.log(x)
