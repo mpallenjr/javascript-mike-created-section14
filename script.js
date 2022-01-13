@@ -87,6 +87,10 @@ lastName = 'Allen'
 console.log(lastName)
 */
 
+const now = 2022
+const ageMike = now - 1986;
+const ageSarah = now - 2003;
+console.log(ageMike,ageSarah)
 
 
 
