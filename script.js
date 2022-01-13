@@ -122,4 +122,4 @@ console.log(ageMike >= ageSarah);
 console.log(ageMike <= ageSarah);
 
 console.log(now - 1991 > now - 2018);
-// JS knows to calcualter the now - X first, then compare the two values to display the boolean value in the console log. 
+// JS knows to calcualter the now - X first, then compare the two values to display the boolean value in the console log.
