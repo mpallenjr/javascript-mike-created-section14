@@ -58,6 +58,6 @@ It is not manditory to declare variables, BUT ALWAYS DO IT ANYWAY!!!
 
 Section 14 - Basic Operators 
 
-
+Operators can be used to do math or in some cases affect strings.  
 
 

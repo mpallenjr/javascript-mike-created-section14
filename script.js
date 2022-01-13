@@ -97,5 +97,12 @@ console.log(ageMike * 2, ageSarah / 2 )
 console.log(ageMike * 2, ageSarah /10, ageMike ** 3)
 // ageMike ** 3 means ageMike(value) * ageMike(value) * ageMike(value)
 
+const firstName = 'Mike';
+const lastName = 'Allen';
+
+//concantenation
+console.log(firstName + ' ' + lastName)
+
+
 
 
