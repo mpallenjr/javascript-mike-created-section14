@@ -62,6 +62,13 @@ Operators can be used to do math or in some cases affect strings.
 
 typeof operator is another operator that tells the type of 'X' See consolog details in the past exercise.
 
+you use comparison operators to return boolean values. these results are typically stored in variables.
 
+There are an order of operations to be talked about im assuming next. 
+
+
+
+
+//////////
 
 

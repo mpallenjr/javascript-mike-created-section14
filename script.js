@@ -86,7 +86,7 @@ job = 'teacher';
 lastName = 'Allen'
 console.log(lastName)
 */
-
+//Math Operators
 const now = 2022;
 const ageMike = now - 1986;
 const ageSarah = now - 2003;
@@ -113,6 +113,13 @@ console.log(x);
 x *= 4; // 100
 x++; //101
 x--; //100
-console.log(x)
+console.log(x);
 
+//Comparison Operators
+console.log(ageMike > ageSarah);
+console.log(ageMike < ageSarah);
+console.log(ageMike >= ageSarah);
+console.log(ageMike <= ageSarah);
 
+console.log(now - 1991 > now - 2018);
+// JS knows to calcualter the now - X first, then compare the two values to display the boolean value in the console log. 
