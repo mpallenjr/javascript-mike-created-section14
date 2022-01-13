@@ -87,29 +87,32 @@ lastName = 'Allen'
 console.log(lastName)
 */
 
-const now = 2022
+const now = 2022;
 const ageMike = now - 1986;
 const ageSarah = now - 2003;
-console.log(ageMike,ageSarah)
+console.log(ageMike,ageSarah);
 
-console.log(ageMike * 2, ageSarah / 2 )
+console.log(ageMike * 2, ageSarah / 2 );
 
-console.log(ageMike * 2, ageSarah /10, ageMike ** 3)
+console.log(ageMike * 2, ageSarah /10, ageMike ** 3);
 // ageMike ** 3 means ageMike(value) * ageMike(value) * ageMike(value)
 
 const firstName = 'Mike';
 const lastName = 'Allen';
 
 //concantenation
-console.log(firstName + ' ' + lastName)
-
-
-
+console.log(firstName + ' ' + lastName);
 
 //assingment operators
 
-let x = 10 + 5 
+let x = 10 + 5;  // 15
 //in this case the equal is an assignment operator, assigning a variable. the order goes from rightsied to the left side. So 15 is calculated before x is defined
 
-x += 10 // x = x +10 (same output)
+x += 10; // 25             x = x +10 (same output)
+console.log(x);
+x *= 4; // 100
+x++; //101
+x--; //100
 console.log(x)
+
+
