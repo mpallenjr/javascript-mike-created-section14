@@ -92,6 +92,10 @@ const ageMike = now - 1986;
 const ageSarah = now - 2003;
 console.log(ageMike,ageSarah)
 
+console.log(ageMike * 2, ageSarah / 2 )
+
+console.log(ageMike * 2, ageSarah /10, ageMike ** 3)
+// ageMike ** 3 means ageMike(value) * ageMike(value) * ageMike(value)
 
 
 
